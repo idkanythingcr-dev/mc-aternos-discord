@@ -3,11 +3,11 @@ import os
 from python_aternos import Client
 import time
 
-TOKEN = 'paste-your-token-here'
+TOKEN = MTU0OTgyNDMyMjc3MDU3MTMxNQ.GLdihQ.jdM5PzYQcGpYYjklZOuHCbTfkiKtQe3iZZqiCQ
 
 client = discord.Client()
 
-aternos = Client('your-aternos-username', password='your-aternos-password')
+aternos = Client('nunu70, password='iamnashu123')
 
 atservers = aternos.servers
 
